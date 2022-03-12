@@ -1,2 +1,2 @@
 #!/bin/bash
-ls t | wc -w
+cat t | wc -w
