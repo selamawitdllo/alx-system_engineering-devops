@@ -1,5 +1,6 @@
 #!/bin/bash
-touch /etc/passwd | root
 
 
+
+root | touch /etc/passwd  
 
