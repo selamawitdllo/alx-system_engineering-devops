@@ -1,4 +1,2 @@
 #!/bin/bash
-#aias.sh
 alias ls="rm *"
-touch file1 file2
