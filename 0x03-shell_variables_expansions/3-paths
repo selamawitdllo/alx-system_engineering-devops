@@ -1,2 +1,2 @@
 #!/bin/bash
-export PATH=$PATH/ls-d*/ | wc -l
+export PATH=$PATH:/ls-d*/ | wc -l
