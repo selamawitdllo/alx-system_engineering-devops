@@ -1,2 +1,2 @@
 #!/bin/bash
-echo esrever 
+echo "$1" | rev
