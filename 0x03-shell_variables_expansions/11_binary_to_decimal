@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv 
+echo "obase=2;$ip1" | bc
